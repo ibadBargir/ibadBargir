@@ -19,8 +19,11 @@ I'm a recent B.Com graduate with a passion for coding and a solid foundation in 
 📜 Certifications:
 ## 📜 Certifications:
 
-- [Java Development Certificate from Itech Institute](#)
-- [SQL and Web Programming Certificate from Itech Institute](#)
+- ![Itech Java Certificate](https://img.shields.io/badge/Java%20Development%20Certificate-Itech%20Institute-brightgreen)
+- ![Itech SQL Certificate](https://img.shields.io/badge/SQL%20and%20Web%20Programming%20Certificate-Itech%20Institute-blue)
+- ![Itech Web Dev Certificate](https://img.shields.io/badge/Web%20Development%20Certificate%20(HTML%20%26%20CSS)-Itech%20Institute-orange)
+- ![Itech Spring & SpringBoot Certificate](https://img.shields.io/badge/Spring%20and%20Spring%20Boot%20Certificate-Itech%20Institute-yellow)
+- ![Udemy Java Spring SpringBoot Servlet JSP React JavaScript](https://img.shields.io/badge/Spring%2C%20Spring%20Boot%2C%20Java%2C%20React%2C%20JavaScript%20Certificate-Udemy-lightblue)
 
 
 . 🛠 Projects:
