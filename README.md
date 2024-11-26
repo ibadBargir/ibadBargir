@@ -46,6 +46,7 @@ Bachelors of Commerce – Mumbai University, June 2023
 
 ## 📱 Connect with Me:
 
-- **LinkedIn:** [Ibad Bargir]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/ibad-mohammad-javed-bargir-5b48742b0/))
+- **LinkedIn:** [Ibad Bargir](https://www.linkedin.com/in/ibad-mohammad-javed-bargir-5b48742b0/)
 - **Gmail:** [ibad72086@gmail.com](mailto:ibad72086@gmail.com)
-- **Instagram:** [@ibadbargir]([https://www.instagram.com/ibad_bargir/](https://www.instagram.com/ibadbargir/))
+- **Instagram:** [@ibad_bargir](https://www.instagram.com/ibad_bargir/)
+
