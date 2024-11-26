@@ -16,7 +16,7 @@ I'm a recent B.Com graduate with a passion for coding and a solid foundation in 
 
 
 
-📜 Certifications:
+
 ## 📜 Certifications:
 
 - ![Itech Java Certificate](https://img.shields.io/badge/Java%20Development%20Certificate-Itech%20Institute-brightgreen)
@@ -46,7 +46,7 @@ Tech Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=h
 
 ---
 
-🎓 Education:
+## 🎓 Education:
 
 Bachelors of Commerce – Mumbai University, June 2023
 
