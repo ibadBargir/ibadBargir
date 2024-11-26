@@ -26,19 +26,25 @@ I'm a recent B.Com graduate with a passion for coding and a solid foundation in 
 - ![Udemy Java Spring SpringBoot Servlet JSP React JavaScript](https://img.shields.io/badge/Spring%2C%20Spring%20Boot%2C%20Java%2C%20React%2C%20JavaScript%20Certificate-Udemy-lightblue)
 
 
-. 🛠 Projects:
+## 🛠 Projects:
 
-✈️ [Flight Booking Home Page]( https://ibadbargir.github.io/Flight-Booking-Home-Page/ )  
-  A responsive homepage design for flight booking with a user-friendly layout.
-  
-🔐 [Login Page]( https://ibadbargir.github.io/login-page/ )  
-  A clean and secure login interface, focused on simple user authentication.ce.
+### [Flight Booking Home Page](https://ibadbargir.github.io/Flight-Booking-Home-Page/)  
+A responsive homepage design for flight booking with a user-friendly layout.  
+Tech Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-🛒 [E-commerce Website](https://ibadbargir.github.io/Ecommerce-home-page/)  
-  A homepage layout for an e-commerce platform, showcasing products and categories.
-  
-🛍️ [Amazon Clone](https://ibadbargir.github.io/Amazon-clone/)  
-  A simplified clone of Amazon’s homepage, designed for practicing UI/UX and frontend skills.
+### [Login Page](https://ibadbargir.github.io/login-page/)  
+A clean and secure login interface, focused on simple user authentication.  
+Tech Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### [E-commerce Website](https://ibadbargir.github.io/Ecommerce-home-page/)  
+A homepage layout for an e-commerce platform, showcasing products and categories.  
+Tech Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### [Amazon Clone](https://ibadbargir.github.io/Amazon-clone/)  
+A simplified clone of Amazon’s homepage, designed for practicing UI/UX and frontend skills.  
+Tech Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+
+---
 
 🎓 Education:
 
