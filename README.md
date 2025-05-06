@@ -50,7 +50,7 @@ Tech Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=h
 
 ## 🎓 Education:
 
-Bachelors of Commerce – Mumbai University, June 2023
+Bachelors of Commerce – Mumbai University, June 2024
 
 ## 📱 Connect with Me:
 
