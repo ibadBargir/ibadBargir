@@ -4,9 +4,11 @@
 
 I'm a recent B.Com graduate with a passion for coding and a solid foundation in Java, SQL, and web development. With hands-on experience building projects and a dedication to continuous learning, I'm ready to bring technical value and creativity to real-world projects.
 
+![Profile Views](https://komarev.com/ghpvc/?username=ibadbargir&color=brightgreen&style=flat)
+
 ## 💼 Tech Stack:
 
-- **Backend:** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) ![Java EE](https://img.shields.io/badge/Java_EE-007396?style=flat&logo=java&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-0068A5?style=flat&logo=java&logoColor=white) ![JavaServer Pages (JSP)](https://img.shields.io/badge/JSP-0068A5?style=flat&logo=java&logoColor=white) ![Java Database Connectivity (JDBC)](https://img.shields.io/badge/JDBC-6DB33F?style=flat&logo=java&logoColor=white)
+- **Backend:** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) ![Java EE](https://img.shields.io/badge/Java_EE-007396?style=flat&logo=java&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-0068A5?style=flat&logo=java&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-0068A5?style=flat&logo=java&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-6DB33F?style=flat&logo=java&logoColor=white)
 
 - **Database:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
@@ -14,8 +16,9 @@ I'm a recent B.Com graduate with a passion for coding and a solid foundation in 
 
 - **Tools & Other Skills:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Unix](https://img.shields.io/badge/UNIX-000000?style=flat&logo=unix&logoColor=white)
 
+## 📊 GitHub Stats:
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibadbargir&layout=compact&langs_count=8&theme=default)
 
 ## 📜 Certifications:
 
@@ -24,7 +27,6 @@ I'm a recent B.Com graduate with a passion for coding and a solid foundation in 
 - ![Itech Web Dev Certificate](https://img.shields.io/badge/Web%20Development%20Certificate%20(HTML%20%26%20CSS)-Itech%20Institute-orange)
 - ![Itech Spring & SpringBoot Certificate](https://img.shields.io/badge/Spring%20and%20Spring%20Boot%20Certificate-Itech%20Institute-yellow)
 - ![Udemy Java Spring SpringBoot Servlet JSP React JavaScript](https://img.shields.io/badge/Spring%2C%20Spring%20Boot%2C%20Java%2C%20React%2C%20JavaScript%20Certificate-Udemy-lightblue)
-
 
 ## 🛠 Projects:
 
@@ -42,7 +44,7 @@ Tech Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=h
 
 ### [Amazon Clone](https://ibadbargir.github.io/Amazon-clone/)  
 A simplified clone of Amazon’s homepage, designed for practicing UI/UX and frontend skills.  
-Tech Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+Tech Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
@@ -55,5 +57,3 @@ Bachelors of Commerce – Mumbai University, June 2023
 <a href="https://www.linkedin.com/in/ibad-mohammad-javed-bargir-5b48742b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"></a>
 <a href="mailto:ibad72086@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="40"></a>
 <a href="https://www.instagram.com/ibadbargir/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="40"></a>
-
-
