@@ -1,4 +1,9 @@
-# 👋 Hello! I'm Ibad Bargir
+
+<h1 align="center">👋 Hi, I'm Ibad Mohammad Javed Bargir</h1>
+<p align="center">
+  🌱 A passionate Java Backend Developer from India <br>
+  📚 Graduate | Backend Tech Enthusiast | Java SpringBoot Devloper
+</p>
 
 👨‍💻 Passionate Web Developer | Java, SQL & Backend Aficionado
 
