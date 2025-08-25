@@ -5,9 +5,9 @@
   📚 Graduate | Backend Tech Enthusiast | Java SpringBoot Devloper
 </p>
 
-👨‍💻 Passionate Web Developer | Java, SQL & Backend Aficionado
+👨‍💻 Passionate Java, SQL & Backend Aficionado |  Web Develope
 
-I'm a recent B.Com graduate with a passion for coding and a solid foundation in Java, SQL, and web development. With hands-on experience building projects and a dedication to continuous learning, I'm ready to bring technical value and creativity to real-world projects.
+I'm a recent graduate with a passion for coding and a solid foundation in Java, SQL, and web development. With hands-on experience building projects and a dedication to continuous learning, I'm ready to bring technical value and creativity to real-world projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ibadbargir&color=brightgreen&style=flat)
 
