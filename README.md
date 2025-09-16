@@ -38,11 +38,25 @@
 
 ---
 
+## 💻 Tech Stack
+
+<div align="center">
+  <!-- Main tech / libraries -->
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,postman,bootstrap" />
+</div>
+
+---
+
+
+
+</div>
+
+
 ### **🛠️ Development Tools & Environment**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,eclipse" />
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
