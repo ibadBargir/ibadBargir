@@ -1,64 +1,137 @@
 
-<h1 align="center">👋 Hi, I'm Ibad Mohammad Javed Bargir</h1>
-<p align="center">
-  🌱 A passionate Java Backend Developer from India <br>
-  📚 Graduate | Backend Tech Enthusiast | Java SpringBoot Devloper
-</p>
+<div align="center">
 
-👨‍💻 Passionate Java, SQL & Backend Aficionado |  Web Develope
+#  Ibad Mohammad Javed Bargir 
 
-I'm a recent graduate with a passion for coding and a solid foundation in Java, SQL, and web development. With hands-on experience building projects and a dedication to continuous learning, I'm ready to bring technical value and creativity to real-world projects.
+#### 🌱 Java Backend Developer | Spring Boot Enthusiast | Problem Solver  
 
-![Profile Views](https://komarev.com/ghpvc/?username=ibadbargir&color=brightgreen&style=flat)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Java+Backend+Developer+%F0%9F%9A%80;Full+Stack+Enthusiast+%F0%9F%92%BB;Spring+Boot+Specialist+%E2%9C%A8;Always+Ready+to+Code+%F0%9F%94%A5" alt="Typing SVG" />
 
-## 💼 Tech Stack:
+<div align="center">
 
-- **Backend:** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) ![Java EE](https://img.shields.io/badge/Java_EE-007396?style=flat&logo=java&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-0068A5?style=flat&logo=java&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-0068A5?style=flat&logo=java&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-6DB33F?style=flat&logo=java&logoColor=white)
+  
 
-- **Database:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="300" alt="Coding GIF" />  
 
-- **Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-- **Tools & Other Skills:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Unix](https://img.shields.io/badge/UNIX-000000?style=flat&logo=unix&logoColor=white)
 
-## 📊 GitHub Stats:
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibadbargir&layout=compact&langs_count=8&theme=default)
+![Profile Views](https://komarev.com/ghpvc/?username=ibadbargir&color=brightgreen&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibad-mohammad-javed-bargir-5b48742b0/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibad72086@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibadbargir)
 
-## 📜 Certifications:
-
-- ![Itech Java Certificate](https://img.shields.io/badge/Java%20Development%20Certificate-Itech%20Institute-brightgreen)
-- ![Itech SQL Certificate](https://img.shields.io/badge/SQL%20and%20Web%20Programming%20Certificate-Itech%20Institute-blue)
-- ![Itech Web Dev Certificate](https://img.shields.io/badge/Web%20Development%20Certificate%20(HTML%20%26%20CSS)-Itech%20Institute-orange)
-- ![Itech Spring & SpringBoot Certificate](https://img.shields.io/badge/Spring%20and%20Spring%20Boot%20Certificate-Itech%20Institute-yellow)
-- ![Udemy Java Spring SpringBoot Servlet JSP React JavaScript](https://img.shields.io/badge/Spring%2C%20Spring%20Boot%2C%20Java%2C%20React%2C%20JavaScript%20Certificate-Udemy-lightblue)
-
-## 🛠 Projects:
-
-### [Flight Booking Home Page](https://ibadbargir.github.io/Flight-Booking-Home-Page/)  
-A responsive homepage design for flight booking with a user-friendly layout.  
-Tech Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### [Login Page](https://ibadbargir.github.io/login-page/)  
-A clean and secure login interface, focused on simple user authentication.  
-Tech Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### [E-commerce Website](https://ibadbargir.github.io/Ecommerce-home-page/)  
-A homepage layout for an e-commerce platform, showcasing products and categories.  
-Tech Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### [Amazon Clone](https://ibadbargir.github.io/Amazon-clone/)  
-A simplified clone of Amazon’s homepage, designed for practicing UI/UX and frontend skills.  
-Tech Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+</div>
 
 ---
 
-## 🎓 Education:
+## 🚀 About Me  
 
-Bachelors of Commerce – Mumbai University, June 2024
+> **"Passionate about building scalable backend solutions and seamless user experiences."**
 
-## 📱 Connect with Me:
+🎓 **B.Com Graduate (Mumbai University, 2024)** with strong **Java backend expertise**  
+💡 Turning **complex requirements** into clean, efficient solutions  
+🌱 Continuously exploring **Spring Boot, Microservices & Security (JWT/OAuth2)**  
+🎯 Goal: Grow as a **Backend/Full Stack Developer** & contribute to impactful projects  
+☕ Fun fact: *I debug with coffee + console.log 😄*  
 
-<a href="https://www.linkedin.com/in/ibad-mohammad-javed-bargir-5b48742b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"></a>
-<a href="mailto:ibad72086@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="40"></a>
-<a href="https://www.instagram.com/ibadbargir/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="40"></a>
+---
+
+### **🛠️ Development Tools & Environment**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" />
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Spring Tools Suite](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
+
+</div>
+
+
+---
+
+## 💼 Certifications  
+
+| 🎖️ | Certification | Institution |
+|:---:|:---|:---:|
+| 🔥 | Java Development | Itech Institute |
+| 🗄️ | SQL & Web Programming | Itech Institute |
+| 🚀 | Spring & Spring Boot | Itech Institute |
+| 💻 | Full Stack Development | Udemy |
+| 🌐 | Web Development Fundamentals | Itech Institute |
+
+---
+
+## 📦 Featured Projects  
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| 🛫 [Flight Booking](https://ibadbargir.github.io/Flight-Booking-Home-Page/) | HTML, CSS, JS | Responsive flight booking interface |
+| 🛒 [E-Commerce Platform](https://ibadbargir.github.io/Ecommerce-home-page/) | HTML, CSS, JS | Homepage with product showcase |
+| 🏪 [Amazon Clone](https://ibadbargir.github.io/Amazon-clone/) | HTML, CSS, JS | UI clone of Amazon homepage |
+| 🔐 [Login Page](https://ibadbargir.github.io/login-page/) | HTML, CSS, JS | Clean & secure login interface |
+
+---
+
+## 📊 GitHub Analytics  
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ibadbargir&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibadbargir&layout=compact&theme=tokyonight"/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ibadbargir&theme=tokyonight" alt="GitHub Streak"/>
+
+</div>
+
+
+
+</div>
+
+---
+
+## 🎯 Career Interests  
+
+💼 Entry-Level **Backend Developer** / **Full Stack Developer**  
+🌟 Technologies: **Spring Boot, REST APIs, Microservices, React**  
+🚀 Companies: Value **fresh talent, innovation & growth**  
+🤝 Culture: Collaborative teams, mentorship & continuous learning  
+
+---
+
+## 📞 Let's Connect  
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ibadbargir" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ibad72086@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/ibadbargir" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://wa.me/919876543210" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">  
+🌟 *"Ready to turn ideas into code and contribute to your team's success!"* 🌟  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!+%F0%9F%98%84;Let%27s+build+something+awesome!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />  
+</div>
